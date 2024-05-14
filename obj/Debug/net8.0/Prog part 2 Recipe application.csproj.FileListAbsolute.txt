@@ -1,0 +1,14 @@
+C:\Users\Test\source\repos\Prog part 2 Recipe application\Prog part 2 Recipe application\bin\Debug\net8.0\Prog part 2 Recipe application.exe
+C:\Users\Test\source\repos\Prog part 2 Recipe application\Prog part 2 Recipe application\bin\Debug\net8.0\Prog part 2 Recipe application.deps.json
+C:\Users\Test\source\repos\Prog part 2 Recipe application\Prog part 2 Recipe application\bin\Debug\net8.0\Prog part 2 Recipe application.runtimeconfig.json
+C:\Users\Test\source\repos\Prog part 2 Recipe application\Prog part 2 Recipe application\bin\Debug\net8.0\Prog part 2 Recipe application.dll
+C:\Users\Test\source\repos\Prog part 2 Recipe application\Prog part 2 Recipe application\bin\Debug\net8.0\Prog part 2 Recipe application.pdb
+C:\Users\Test\source\repos\Prog part 2 Recipe application\Prog part 2 Recipe application\obj\Debug\net8.0\Prog part 2 Recipe application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\source\repos\Prog part 2 Recipe application\Prog part 2 Recipe application\obj\Debug\net8.0\Prog part 2 Recipe application.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\Prog part 2 Recipe application\Prog part 2 Recipe application\obj\Debug\net8.0\Prog part 2 Recipe application.AssemblyInfo.cs
+C:\Users\Test\source\repos\Prog part 2 Recipe application\Prog part 2 Recipe application\obj\Debug\net8.0\Prog part 2 Recipe application.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\Prog part 2 Recipe application\Prog part 2 Recipe application\obj\Debug\net8.0\Prog part 2 Recipe application.dll
+C:\Users\Test\source\repos\Prog part 2 Recipe application\Prog part 2 Recipe application\obj\Debug\net8.0\refint\Prog part 2 Recipe application.dll
+C:\Users\Test\source\repos\Prog part 2 Recipe application\Prog part 2 Recipe application\obj\Debug\net8.0\Prog part 2 Recipe application.pdb
+C:\Users\Test\source\repos\Prog part 2 Recipe application\Prog part 2 Recipe application\obj\Debug\net8.0\Prog part 2 Recipe application.genruntimeconfig.cache
+C:\Users\Test\source\repos\Prog part 2 Recipe application\Prog part 2 Recipe application\obj\Debug\net8.0\ref\Prog part 2 Recipe application.dll
